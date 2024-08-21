@@ -1,0 +1,40 @@
+# STM32CubeIDE build files
+*.cproject
+*.project
+*.launch
+*.settings/
+
+# Build output
+/build/
+Debug/
+Release/
+
+# Object files
+*.o
+*.obj
+
+# Libraries and executables
+*.a
+*.lib
+*.so
+*.exe
+*.out
+
+# IDE and system-specific files
+*.swp
+*.swo
+*.swn
+*.DS_Store
+*.gdb_history
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+
+# Misc
+*.log
+*.tmp
+*.temp
+*.swp
